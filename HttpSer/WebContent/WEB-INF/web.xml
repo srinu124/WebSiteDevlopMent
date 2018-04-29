@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>ds</servlet-name>
+<servlet-class>com.nt.DemoHttp</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>ds</servlet-name>
+<url-pattern>/seenu</url-pattern>
+</servlet-mapping>
+</web-app>

@@ -1,0 +1,12 @@
+<web-app>
+<servlet>
+<servlet-name>ls</servlet-name>
+<servlet-class>com.nt.RegistrationServlet</servlet-class>
+</servlet>
+
+
+<servlet-mapping>
+<servlet-name>ls</servlet-name>
+<url-pattern>/cnu</url-pattern>
+</servlet-mapping>
+</web-app>
